@@ -1,7 +1,7 @@
 ---
 #preview
-title: Headphones 3D Rendering
-image: /images/project-2-1200x988.jpg
+title: Yavnikaa - Website / UX/UI 
+image: /images/projects/Project04.jpg
 category: Design
 category_slug: design
 type: UI/UX Design, Branding, Logo Design

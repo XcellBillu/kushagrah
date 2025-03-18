@@ -63,7 +63,7 @@ const HeroSection = () => {
                             </div>
 						</div>
 					</div>
-					<a href="#" className={mute ? "onovo-play-btn active" : "onovo-play-btn"} onClick={(e) => clickedMuteHeroVideo(e) }>
+					{/* <a href="#" className={mute ? "onovo-play-btn active" : "onovo-play-btn"} onClick={(e) => clickedMuteHeroVideo(e) }>
 						<span className="play-circles" />
 						<span className="play-lines">
 							<span />
@@ -71,7 +71,7 @@ const HeroSection = () => {
 							<span />
 							<span />
 						</span>
-					</a>
+					</a> */}
 				</div>
 			</section>
         </>

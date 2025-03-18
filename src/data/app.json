@@ -34,77 +34,17 @@
             {
                 "label": "Home",
                 "link": "/",
-                "children": [
-                    
-                ]
+                "children": 0
             },
             {
                 "label": "About",
-                "link": "/about",
-                "children": [
-                ]
+                "link": "/",
+                "children": 0
             },
             {
                 "label": "Projects",
-                "link": "/projects",
-                "children": [
-                    {
-                        "label": "Projects Grid",
-                        "link": "/projects",
-                        "children": 0
-                    },
-                    {
-                        "label": "Projects List",
-                        "link": "/projects-2",
-                        "children": 0
-                    },
-                    {
-                        "label": "Projects Side",
-                        "link": "/projects-3",
-                        "children": 0
-                    },
-                    {
-                        "label": "Projects Masonry",
-                        "link": "/projects-4",
-                        "children": 0
-                    },
-                    {
-                        "label": "Projects 3 Column",
-                        "link": "/projects-5",
-                        "children": 0
-                    },
-                    {
-                        "label": "Gallery",
-                        "link": "/gallery",
-                        "children": 0
-                    },
-                    {
-                        "label": "Project Detail",
-                        "link": "/projects/project-01",
-                        "children": 0
-                    }
-                ]
-            },
-            {
-                "label": "Blog",
-                "link": "/blog",
-                "children": [
-                    {
-                        "label": "Blog Grid",
-                        "link": "/blog",
-                        "children": 0
-                    },
-                    {
-                        "label": "Blog List",
-                        "link": "/blog-2",
-                        "children": 0
-                    },
-                    {
-                        "label": "Blog Detail",
-                        "link": "/blog/play-to-your-strength-and-supercharge-your-business",
-                        "children": 0
-                    }
-                ]
+                "link": "/",
+                "children": 0
             },
             {
                 "label": "Contact Us",

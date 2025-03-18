@@ -40,7 +40,7 @@ const Home1 = (props) => {
         <ShowcaseSection projects={props.projects} />
         <TeamSection team={props.team} />
         <TestimonialSlider />
-        <HistorySlider />
+        {/* <HistorySlider /> */}
         {/* <CountersSection /> */}
         {/* <CallToActionSection /> */}
         {/* <LatestPostsSection posts={props.posts} /> */}

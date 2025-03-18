@@ -22,7 +22,7 @@ const DefaultFooter = () => {
                             {/* Description */}
                             <div className="onovo-text onovo-text-white">
                                 <h5>Information</h5>
-                                <p style={{"opacity": "0.6"}}>From the moment our company was founded, we have helped our clients find exceptional solutions <strong>for their businesses</strong>. </p>
+                                <p style={{"opacity": "0.6"}}>Bringing ideas to life with bold visuals and timeless design. <strong>Crafting stories that captivate, inspire, and leave a lasting impact.</strong> </p>
                             </div>
 
                         </div>
@@ -31,10 +31,10 @@ const DefaultFooter = () => {
                             {/* Description */}
                             <div className="onovo-text onovo-text-white">
                                 <h5>Get in Touch</h5>
-                                <p style={{"opacity": "0.6"}}>Baird House, 15-17 St Cross St <br />London EC1N 8UW </p>
+                                <p style={{"opacity": "0.6"}}>Greater Kailash, KC Studio <br />Delhi - 110048 </p>
                                 <p style={{"opacity": "0.6"}}>
-                                    <a href="tel:+10204302973" className="onovo-lnk lnk--white" target="_blank">+ 1 (020) 430 2973</a><br />
-                                    <a href="mailto:username@domain.com" className="onovo-lnk lnk--white" target="_blank">username@domain.com</a>
+                                    <a href="tel:+919811028537" className="onovo-lnk lnk--white" target="_blank">+91-98110 28537</a><br />
+                                    <a href="mailto:contact@kushagrahchawala.com" className="onovo-lnk lnk--white" target="_blank">contact@kushagrahchawala.com</a>
                                 </p>
                             </div>
 

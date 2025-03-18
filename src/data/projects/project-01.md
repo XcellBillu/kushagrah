@@ -1,7 +1,7 @@
 ---
 #preview
-title: Museums Art Concept
-image: /images/project-n01-3-1200x900.jpg
+title: Amrita Sher-Gil Book
+image: /images/projects/Project01.jpg
 category: Branding
 category_slug: branding
 type: Art Direction, Branding, Interactive Design

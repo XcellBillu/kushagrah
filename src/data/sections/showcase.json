@@ -1,8 +1,8 @@
 {
-    "subtitle": "Featured Projects",
-    "title": "Studio Showcase",
+    "subtitle": "Major Projects",
+    "title": "KC Creations",
     "button": {
-        "label": "All Projects",
+        "label": "Know More",
         "link": "/projects"
     },
     "numOfItems": 5
