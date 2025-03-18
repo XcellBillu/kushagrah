@@ -1,9 +1,9 @@
 ---
 #preview details
-image: /images/team-4-1000x1357.jpg
-name: Alexander Bravo
+image: /images/gems/Canva.png
+name: Canva
 role: Full-Stack Developer
-first_letter: A
+first_letter: C
 social:
   - link: https://facebook.com/
     icon: fab fa-facebook-f

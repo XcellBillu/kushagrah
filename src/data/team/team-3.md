@@ -1,9 +1,9 @@
 ---
 #preview details
-image: /images/team-1-t-min.png
-name: Steven Morrison
+image: /images/gems/Figma.png
+name: Figma
 role: Full-stack Developer
-first_letter: S
+first_letter: F
 social:
   - link: https://facebook.com/
     icon: fab fa-facebook-f

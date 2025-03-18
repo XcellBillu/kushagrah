@@ -64,7 +64,7 @@ const TestimonialSlider = () => {
                                             <i className="fas fa-star" />
                                             <i className="fas fa-star" />
                                             <i className="fas fa-star" />
-                                            <i className="fas fa-star" />
+                                            
                                         </div>
                                     </SwiperSlide>
                                     ))}

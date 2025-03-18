@@ -17,7 +17,7 @@ function MyApp({ Component, pageProps }) {
           <title>{appData.settings.siteName}</title>
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <meta name="HandheldFriendly" content="true" />
-          <meta name="author" content="bslthemes" />
+          <meta name="author" content="KushagraChawala" />
           {/* seo end */}        
       </Head>
       <Component {...pageProps} />

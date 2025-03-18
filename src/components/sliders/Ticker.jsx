@@ -9,7 +9,6 @@ const TickerSlider = () => {
     <>
         {/* Onovo Ticker */}
         <section className="onovo-section gap-bottom-140">
-
             {/* Ticker swiper */}
             <div className="onovo-ticker-slider gap-top-90 gap-bottom-100">
                 <Swiper

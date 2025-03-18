@@ -1,9 +1,9 @@
 ---
 #preview details
-image: /images/team-7-t-min.png
-name: Charlotte Johnson
+image: /images/gems/InDesign.png
+name: Adobe Indesign
 role: Seo & Copywriter
-first_letter: E
+first_letter: I
 social:
   - link: https://facebook.com/
     icon: fab fa-facebook-f

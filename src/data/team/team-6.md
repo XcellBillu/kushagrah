@@ -1,9 +1,9 @@
 ---
 #preview details
-image: /images/team-5-1000x1357.jpg
-name: Lina Watson
+image: /images/gems/Illustrator 01.png
+name: Adobe Illustrator
 role: Art Director
-first_letter: L
+first_letter: A
 social:
   - link: https://facebook.com/
     icon: fab fa-facebook-f

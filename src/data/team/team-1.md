@@ -1,9 +1,9 @@
 ---
 #preview details
-image: /images/team-2-t-min.png
-name: Thomas Jackki
-role: UI & UX Designer
-first_letter: T
+image: /images/gems/Photoshop.png
+name: Adobe Photoshop
+role: 
+first_letter: P
 social:
   - link: https://facebook.com/
     icon: fab fa-facebook-f

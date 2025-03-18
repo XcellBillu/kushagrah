@@ -1,9 +1,9 @@
 ---
 #preview details
-image: /images/team-6-t-min.png
-name: Melanie Robinson
+image: /images/gems/After Effects.png
+name: Adobe After Effects
 role: Seo & Marketing
-first_letter: M
+first_letter: A
 social:
   - link: https://facebook.com/
     icon: fab fa-facebook-f

@@ -1,24 +1,19 @@
 {
-    "title":  "Testimonials",
+    "title":  "Recommendations",
     "rating": {
-        "value": "4.0",
-        "label": "Rating from all Client's"
+        "value": "4.3",
+        "label": ""
     },
     "items": [
         {
-            "name": "Thomas Smith",
-            "role": "Customer Support",
-            "text": "Their high level of customer service <br />complemented their technical expertise. <br />They were responsive, supportive, and <br />communicative. Their dedication to <br />the project was impressive."
+            "name": "Shubham Gupta",
+            "role": "CEO, Xcell-Gen",
+            "text": "Working with Kushagrah was an absolute pleasure! His ability to transform complex ideas into intuitive, user-friendly designs is remarkable. The website he designed for us not only looks stunning but also improves user engagement significantly."
         },
         {
-            "name": "Mike Cameron",
-            "role": "Code Quality",
-            "text": "Their high level of customer service <br />complemented their technical expertise. <br />They were responsive, supportive, and <br />communicative. Their dedication to <br />the project was impressive."
-        },
-        {
-            "name": "Jessica Brown",
-            "role": "Design Quality",
-            "text": "Their high level of customer service <br />complemented their technical expertise. <br />They were responsive, supportive, and <br />communicative. Their dedication to <br />the project was impressive."
+            "name": "Deepak",
+            "role": "Solopreneur, Creative Dawg",
+            "text": "Beyond just design, Kushagrah provided invaluable insights into my brand strategy. His understanding of market trends and creative direction helped me refine my visual identity and brand positioning."
         }
     ]
 }

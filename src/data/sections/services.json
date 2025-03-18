@@ -1,21 +1,21 @@
 {
     "items": [
         {
-            "image": "/images/serv-icon1.png",
-            "title": "Creation",
-            "text": "Developing websites is about so much more than marketing. It’s also about aesthetics.",
+            "image": "/images/icons/Creativity.gif",
+            "title": "Creativity",
+            "text": "A good design tells a story; a great design makes you feel it.",
             "link": "/services/service-1"
         },
         {
-            "image": "/images/serv-icon2.png",
-            "title": "Websites",
-            "text": "Developing websites is about so much more than marketing. It’s also about aesthetics.",
+            "image": "/images/icons/Growth.gif",
+            "title": "Growth",
+            "text": "Master the rules, then break them with purpose.",
             "link": "/services/service-2"
         },
         {
-            "image": "/images/serv-icon3.png",
-            "title": "Studio",
-            "text": "Developing websites is about so much more than marketing. It’s also about aesthetics.",
+            "image": "/images/icons/perspective.gif",
+            "title": "Perspective",
+            "text": "Portfolio is not a collection. it's a reflection of your vision.",
             "link": "/services/service-3"
         }
     ]

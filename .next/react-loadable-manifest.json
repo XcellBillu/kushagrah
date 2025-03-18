@@ -11,6 +11,12 @@
       "static/chunks/src_components_sections_Hero_jsx.js"
     ]
   },
+  "index.jsx -> @components/sliders/History": {
+    "id": "index.jsx -> @components/sliders/History",
+    "files": [
+      "static/chunks/src_components_sliders_History_jsx.js"
+    ]
+  },
   "index.jsx -> @components/sliders/Testimonial": {
     "id": "index.jsx -> @components/sliders/Testimonial",
     "files": [
