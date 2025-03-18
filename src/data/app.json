@@ -48,17 +48,17 @@
             },
             {
                 "label": "Contact Us",
-                "link": "/contact",
+                "link": "/",
                 "children": 0
             }
         ],
         "button": {
             "label": "Showcase",
-            "link": "/projects"
+            "link": "/"
         },
         "button2": {
             "label": "Start a Project",
-            "link": "/contact"
+            "link": "/"
         }
     },
     "footer": {

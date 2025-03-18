@@ -21,14 +21,14 @@ const ServicesSection = () => {
                     <div key={`services-item-${key}`} className="col-xs-12 col-sm-12 col-md-6 col-lg-4 align-center">
                         <div className={key == 1 ? "onovo-service-grid-item onovo-hover-1 active active--default" : "onovo-service-grid-item onovo-hover-1"}>
                             <div className="image">
-                                <Link href={item.link}>
+                                {/* <Link href={item.link}> */}
                                     <img decoding="async" src={item.image} alt={item.title} />
-                                </Link>
+                                {/* </Link> */}
                             </div>
                             <h5 className="onovo-title-3">
-                                <a href={item.link}>
+                                {/* <a href={item.link}> */}
                                     <span>{item.title}</span>
-                                </a>
+                                {/* </a> */}
                             </h5>
                             <div className="onovo-text">
                                 <div>

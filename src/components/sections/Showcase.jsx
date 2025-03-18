@@ -26,7 +26,7 @@ const ShowcaseSection = ( { projects } ) => {
 					</div>
 
 					{/* Showcase */}
-					<div className="onovo-showcase gap-bottom-40">
+					<div className="onovo-showcase gap-bottom-120">
 						<div className="img-circle onovo-circle-move" />
 
 						{/* Showcase items */}
@@ -34,16 +34,16 @@ const ShowcaseSection = ( { projects } ) => {
                             {projects.slice(0, Data.numOfItems).map((item, key) => (
 							<div key={`showcase-item-${key}`} className="onovo-showcase-item">
 								<div className="category">
-									<a href={`/projects/${item.id}`}>
+									{/* <a href={`/projects/${item.id}`}> */}
 										<span data-splitting data-onovo-scroll>
 											<span>{item.category}</span>
 										</span>
-									</a>
+									{/* </a> */}
 								</div>
 								<h3 className="title">
-									<a href={`/projects/${item.id}`}>
+									{/* <a href={`/projects/${item.id}`}> */}
 										<span className="onovo-lnk" data-splitting data-onovo-scroll>{item.title}</span>
-									</a>
+									{/* </a> */}
 								</h3>
 								<div className="image" data-onovo-overlay data-onovo-scroll>
 									<span className="img" style={{"backgroundImage": "url(" + item.image + ")"}} />
@@ -55,12 +55,12 @@ const ShowcaseSection = ( { projects } ) => {
 					</div>
 
 					{/* Button */}
-					<Link className="onovo-btn onovo-hover-btn" href={Data.button.link}>
+					{/* <Link className="onovo-btn onovo-hover-btn" href={Data.button.link}>
 						<i className="arrow">
 							<span />
 						</i>
 						<span>{Data.button.label}</span>
-					</Link>
+					</Link> */}
 
 				</div>
 			</section>
