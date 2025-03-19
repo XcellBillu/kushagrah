@@ -2,8 +2,8 @@
 #preview
 title: IAF DASHBOARD
 image: /images/projects/Project02.jpg
-category: Marketing
-category_slug: marketing
+category: UI/UX
+category_slug: ui
 type: UI/UX Design, Mobile Apps, Interactive Design
 team: Alexander Bravo
 date: 2021-2023
@@ -23,44 +23,52 @@ details:
         - label: "Website:"
           value: bslthemes.com
 
+fullimg:
+    imgp: "
+        images/projects/IAF/IAF AAcademy IMG.jpg
+    "
+
 gallery: 
     items:
-        - image: /images/project-2-2-1200x982.jpg
+        - image: /images/projects/IAF/2IAF Academy Laptop MOCKUP.png
           alt: "image"
 
-        - image: /images/project-2-1200x988.jpg
-          alt: "image"
-
-        - image: /images/project-4.jpg
+        - image: /images/projects/IAF/2IAF Academy Laptop MOCKUP 02.png
           alt: "image"
         
-        - image: /images/project-3-1200x750.jpg
-          alt: "image"
+        - image: /images/projects/IAF/IAF Academy Low Fedility 01.jpg
+          alt: "das"
 
-        - image: /images/project-1-1080x800.jpg
+        - image: /images/projects/IAF/IAF Academy Low Fedility 02.jpg
           alt: "image"
         
-        - image: /images/project-8-1080x800.jpg
+        - image: /images/projects/IAF/IAF Academy Low Fedility 03.jpg
           alt: "image"
 
+        - image: /images/projects/IAF/IAF Academy Low Fedility 04.jpg
+          alt: "image"
+
+        - image: /images/projects/IAF/Typo Frame IAF 02.jpg
+          alt: "image"
+
+        - image: /images/projects/IAF/Typo Frame IAF 01.jpg
+          alt: "image"
+        
 additional:
-    heading: Project Result
+    heading: 
     content: "
-      <p>Our immediate goal is to complete the testing phase and achieve the certification, which will allow us to bring our product to market by the end of the year. We are actively engaging with waste to energy operators, concrete manufacturers, and the wider construction industry.</p>
+      <p>To create a dashboard which can elaborate how regiments and gallantry awards are distributed and functions in Indian Armed Forces.</p>
       <ul>
         <li>
-          Far curiosity incommode now led smallness allowance.
+          For Creating an engaging dashboard to help kids learn about Indian Armed Forces..
         </li>
         <li>
-          Favour bed assure son things yet.
-        </li>
-        <li>
-          She consisted consulted elsewhere happiness.
+          Creating a simpler user experience for easier navigation and quick user flow understanding the low attention span.
         </li>
       </ul>
     "
 ---
 
-Most innovative and successful builders and real estate enterprises in the country, has been selected for the design-build expansion of Airsides A and E at Tampa International Airport. This expansion will support Hillsborough County Aviation Authority and Tampa International Airport as they project up to 38.8 million annual passengers, 402,000 tons of cargo per year and 344,000 annual aircraft operations.
+The Indian Armed Forces are the military forces of the Republic of India. It consists of three professional uniformed services: the Indian Army, Indian Navy, and Indian Air Force. I developed a dashboard which can be used to learn about the Indian Armed Forces.
 
-I learned that this waste product could be stabilised, reducing the potential for leachable heavy metals by 96%. Research has shown that the **Construction patent pending process demonstrates** that after metal extraction and recycling, any residual chemicals can be securely contained when utilised in hydraulically bound concrete products.
+This dashboard can be used by children of ages 6-14 to learn about the various regiments and gallantry awards won by our brave heroes, helping with important information and needed motivation.

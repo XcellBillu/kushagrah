@@ -1,33 +1,30 @@
 {
     "settings": {
-        "siteName": "Kushagrah Chawala - Portfolio",
+        "siteName": "Kushagrah Chawla - Portfolio",
         "preloader": true,
         "formspreeURL": "https://formspree.io/f/your_api_key",
         "portfolio": {
             "categories": [
+              
                 {
-                    "label": "Marketing",
-                    "slug": "marketing"
+                    "label": "Social",
+                    "slug": "social"
                 },
                 {
-                    "label": "Interactive",
-                    "slug": "interactive"
+                    "label": "Printing",
+                    "slug": "print"
                 },
                 {
-                    "label": "Design",
-                    "slug": "design"
-                },
-                {
-                    "label": "Branding",
-                    "slug": "branding"
+                    "label": "UI/UX",
+                    "slug": "ui"
                 }
             ]
         }
     },
     "header": {
         "logo": {
-            "image": "/images/official/kclogoblack.png",
-            "image_white": "/images/official/white.png",
+            "image": "/images/official/final_logo.png",
+            "image_white": "/images/official/final_logo.png",
             "alt": "KC_logo"
         },
         "menu": [
@@ -37,33 +34,29 @@
                 "children": 0
             },
             {
-                "label": "About",
-                "link": "/",
-                "children": 0
-            },
-            {
                 "label": "Projects",
-                "link": "/",
-                "children": 0
+                "link": "/projects",
+                "children": [
+                ]
             },
             {
-                "label": "Contact Us",
-                "link": "/",
+                "label": "Let's Connect",
+                "link": "/contact",
                 "children": 0
             }
         ],
         "button": {
             "label": "Showcase",
-            "link": "/"
+            "link": "/projects"
         },
         "button2": {
             "label": "Start a Project",
-            "link": "/"
+            "link": "/contact"
         }
     },
     "footer": {
         "logo": {
-            "image": "/images/logo-black.png",
+            "image": "/images/final_logo.png",
             "alt": "logo"
         },
         "gallery": [
@@ -101,18 +94,9 @@
         "copy": "KC 2025. All Rights In My Pocket"
     },
     "social": [
+       
         {
-            "link": "https://facebook.com",
-            "icon": "fab fa-facebook",
-            "title": "Facebook"
-        },
-        {
-            "link": "https://twitter.com",
-            "icon": "fab fa-twitter",
-            "title": "Twitter"
-        },
-        {
-            "link": "https://linkedin.com",
+            "link": "https://www.linkedin.com/in/kushagrah-chawla-23497320b/",
             "icon": "fab fa-linkedin",
             "title": "Linkedin"
         }

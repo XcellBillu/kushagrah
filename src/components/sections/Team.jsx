@@ -5,7 +5,7 @@ const TeamSection = ( { team } ) => {
     return (
         <>
             {/* Onovo Team */}
-			<section className="onovo-section gap-top-140 gap-bottom-140">
+			<section className="onovo-section gap-top-80 gap-bottom-80">
 				<div className="container">
 
 					{/* Heading */}

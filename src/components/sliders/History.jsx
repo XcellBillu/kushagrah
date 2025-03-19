@@ -7,7 +7,7 @@ const HistorySlider = () => {
   return (
     <>
         {/* Onovo History */}
-        <section className="onovo-section onovo-section-bg gap-top-140 gap-bottom-140">
+        <section className="onovo-section onovo-section-bg gap-top-80 gap-bottom-40">
             <div className="container">
                 <div className="row">
                     <div className="col-xs-12 col-sm-12 col-md-12 col-lg-9">
@@ -26,12 +26,12 @@ const HistorySlider = () => {
                     <div className="col-xs-12 col-sm-12 col-md-12 col-lg-3 align-right hide-on-mobile">
 
                         {/* Button */}
-                        <Link className="onovo-btn onovo-hover-btn" href={Data.button.link}>
+                        {/* <Link className="onovo-btn onovo-hover-btn" href={Data.button.link}>
                             <i className="arrow">
                                 <span />
                             </i>
                             <span>{Data.button.label}</span>
-                        </Link>
+                        </Link> */}
 
                     </div>
                 </div>
@@ -46,8 +46,8 @@ const HistorySlider = () => {
                             
                             {Data.items.map((item, key) => (
                             <SwiperSlide key={`history-slide-${key}`} className="swiper-slide">
-                                <div className="onovo-history-item">
-                                    <div className="image" style={{"backgroundImage": "url("+item.image+")"}} data-onovo-overlay />
+                                <div className="onovo-history-item text-center" style={{justifyContent:'center'}}>
+                                    {/* <div className="image" style={{"backgroundImage": "url("+item.image+")"}} data-onovo-overlay /> */}
                                     <div className="desc">
                                         <div className="subtitle onovo-text-white">
                                             <div data-splitting>{item.subtitle}</div>

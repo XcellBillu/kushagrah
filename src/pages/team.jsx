@@ -13,7 +13,7 @@ const Team = ( props ) => {
 		<PageBanner pageTitle={"Our Team"} pageDesc={"Meet our creativity company family."} />
 
 		{/* Onovo Team */}
-		<section className="onovo-section gap-top-140 gap-bottom-140">
+		<section className="onovo-section gap-top-50 gap-bottom-80">
 			<div className="container">
 
 				{/* Team items */}

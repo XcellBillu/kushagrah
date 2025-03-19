@@ -1,5 +1,6 @@
 import Data from "@data/sections/about.json";
 import Link from "next/link";
+import KC from '../../../public/images/official/ProfileIMG.png'
 
 const AboutSection = () => {
     return (
@@ -27,14 +28,17 @@ const AboutSection = () => {
                   <div className="col-xs-12 col-sm-12 col-md-4 col-lg-12 hide-on-desktop gap-bottom-60">
 
                     {/* Number */}
-                    <div className="onovo-number onovo-circle-text mrg-left">
+                    <div className="">
+                      <img src="/images/official/ProfileIMG.png" alt="Kushagrah Chawala" srcset="" />
+                    </div>
+                    {/* <div className="onovo-number onovo-circle-te)xt mrg-left">
                       <div className="num onovo-text-white">
                         <span>{Data.number.value}</span>
                       </div>
                       <div className="label onovo-text-black onovo-circle-text-label">
                         {Data.number.label}
                       </div>
-                    </div>
+                    </div> */}
 
                   </div>
                 </div>
@@ -57,16 +61,18 @@ const AboutSection = () => {
 
               </div>
               <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 hide-on-mobile">
-
+                    <div className="d-flex justify-content-center">
+                      <img src="/images/official/ProfileIMG.png" alt="Kushagrah Chawala" srcset="" />
+                    </div>
                 {/* Number */}
-                <div className="onovo-number onovo-circle-text mrg-right">
+                {/* <div className="onovo-number onovo-circle-text mrg-right">
                   <div className="num onovo-text-white">
                     <span>{Data.number.value}</span>
                   </div>
                   <div className="label onovo-text-black onovo-circle-text-label">
                     {Data.number.label}
                   </div>
-                </div>
+                </div> */}
 
               </div>
             </div>

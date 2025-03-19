@@ -2,8 +2,8 @@
 #preview
 title: Yavnikaa - Website / UX/UI 
 image: /images/projects/Project04.jpg
-category: Design
-category_slug: design
+category: UI/UX
+category_slug: ui
 type: UI/UX Design, Branding, Logo Design
 team: Steven Morrison
 date: 2021-2023
@@ -25,42 +25,50 @@ details:
 
 gallery: 
     items:
-        - image: /images/project-2-2-1200x982.jpg
+        - image: /images/projects/yavnika/Yavnika Website Phone MOCKUP.png
           alt: "image"
 
-        - image: /images/project-2-1200x988.jpg
+        - image: /images/projects/yavnika/Yavnika Website Phone MOCKUP 02.png
           alt: "image"
 
-        - image: /images/project-4.jpg
+        - image: /images/projects/yavnika/Yavnika Website Tablet MOCKUP.png
           alt: "image"
         
-        - image: /images/project-3-1200x750.jpg
+        - image: /images/projects/yavnika/Yavnika Website Tablet MOCKUP 02.png
           alt: "image"
 
-        - image: /images/project-1-1080x800.jpg
+        - image: /images/projects/yavnika/Typo Frame 01.jpg
           alt: "image"
         
-        - image: /images/project-8-1080x800.jpg
+        - image: /images/projects/yavnika/Typo Frame 02.jpg
+          alt: "image"
+
+        - image: /images/projects/yavnika/Yavnika Website High Fedility.png
+          alt: "image"
+        
+        - image: /images/projects/yavnika/Yavnika Website Low Fedility.png
           alt: "image"
 
 additional:
-    heading: Project Result
+    heading: Problem Statement
     content: "
-      <p>Our immediate goal is to complete the testing phase and achieve the certification, which will allow us to bring our product to market by the end of the year. We are actively engaging with waste to energy operators, concrete manufacturers, and the wider construction industry.</p>
+      <p>The existing website lacked a cohesive luxurious feel and didn’t adequately covey the brand’s heritage. The user experience was not optimized for seamless browsing and purchasing.</p>
       <ul>
         <li>
-          Far curiosity incommode now led smallness allowance.
+          Create a luxurious and elegant design that reflects the heritage of Banarasi sarees.
         </li>
         <li>
-          Favour bed assure son things yet.
+          Improve user experience to increase conversion rates.
         </li>
         <li>
-          She consisted consulted elsewhere happiness.
+          Enhance product presentation to highlight the quality the craftmanship of the sarees.
         </li>
       </ul>
     "
 ---
 
-Most innovative and successful builders and real estate enterprises in the country, has been selected for the design-build expansion of Airsides A and E at Tampa International Airport. This expansion will support Hillsborough County Aviation Authority and Tampa International Airport as they project up to 38.8 million annual passengers, 402,000 tons of cargo per year and 344,000 annual aircraft operations.
+Yavnikaa is prestigious brand specializing in authentic Banarasi sarees.
+The brand sought a redesign of its eCommerce platform to enhance the online shopping experience, making it feel luxurious and true to the heritage of Banarasi sarees.
+
 
 I learned that this waste product could be stabilised, reducing the potential for leachable heavy metals by 96%. Research has shown that the **Construction patent pending process demonstrates** that after metal extraction and recycling, any residual chemicals can be securely contained when utilised in hydraulically bound concrete products.

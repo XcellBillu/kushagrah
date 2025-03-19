@@ -89,7 +89,7 @@ eval(__webpack_require__.ts("(function (global, factory) {\n\t true ? module.exp
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
 "use strict";
-module.exports = JSON.parse('{"video":"/video/Herovid.mp4","title":{"text":"Jeweller Of  <br/> Modern Design","icon":"/images/title_icon.svg"},"subtitle":""}');
+module.exports = JSON.parse('{"video":"/video/Videost.mp4","title":{"text":"Architect Of  <br/> Modern Design","icon":"/images/title_icon.svg"},"subtitle":""}');
 
 /***/ })
 

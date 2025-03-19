@@ -2,8 +2,8 @@
 #preview
 title: Social Media Posts
 image: /images/projects/Project03.jpg
-category: Design
-category_slug: design
+category: Social
+category_slug: social
 type: Marketing, Rendering, 3D Design
 team: Lina Watson
 date: 2021-2023
@@ -25,42 +25,51 @@ details:
 
 gallery: 
     items:
-        - image: /images/project-2-2-1200x982.jpg
+        - image: /images/projects/social/NATA Post 01.png
           alt: "image"
 
-        - image: /images/project-2-1200x988.jpg
+        - image: /images/projects/social/NATA Post 01-text.png
           alt: "image"
 
-        - image: /images/project-4.jpg
+        - image: /images/projects/social/NATA Post 02.png
           alt: "image"
         
-        - image: /images/project-3-1200x750.jpg
+        - image: /images/projects/social/NATA Post 02-text.png
           alt: "image"
 
-        - image: /images/project-1-1080x800.jpg
+        - image: /images/projects/social/NATA Post 03.png
           alt: "image"
         
-        - image: /images/project-8-1080x800.jpg
+        - image: /images/projects/social/NATA Post 03-text.png
           alt: "image"
+
+        - image: /images/projects/social/Brand Logos Post 01 - Pizza Hut.png
+          alt: "image"
+
+        - image: /images/projects/social/Brand Logos 01 text.png
+          alt: "image"
+
+        - image: /images/projects/social/Brand Logos Post 02 - StarBucks.png
+          alt: "image"
+
+        - image: /images/projects/social/Brand Logos 02 text.png
+          alt: "image"
+        
+        - image: /images/projects/social/Brand Logos Post 03 - Burger King.png
+          alt: "image"
+
+        - image: /images/projects/social/Brand Logos 03 text.png
+          alt: "image"
+        
+        - image: /images/projects/social/Brand Logos Post 04 - Taco Bell.png
+          alt: "image"
+          
+        - image: /images/projects/social/Brand Logos 04 text.png
+          alt: "image"
+
 
 additional:
-    heading: Project Result
+    heading:
     content: "
-      <p>Our immediate goal is to complete the testing phase and achieve the certification, which will allow us to bring our product to market by the end of the year. We are actively engaging with waste to energy operators, concrete manufacturers, and the wider construction industry.</p>
-      <ul>
-        <li>
-          Far curiosity incommode now led smallness allowance.
-        </li>
-        <li>
-          Favour bed assure son things yet.
-        </li>
-        <li>
-          She consisted consulted elsewhere happiness.
-        </li>
-      </ul>
+     
     "
----
-
-Most innovative and successful builders and real estate enterprises in the country, has been selected for the design-build expansion of Airsides A and E at Tampa International Airport. This expansion will support Hillsborough County Aviation Authority and Tampa International Airport as they project up to 38.8 million annual passengers, 402,000 tons of cargo per year and 344,000 annual aircraft operations.
-
-I learned that this waste product could be stabilised, reducing the potential for leachable heavy metals by 96%. Research has shown that the **Construction patent pending process demonstrates** that after metal extraction and recycling, any residual chemicals can be securely contained when utilised in hydraulically bound concrete products.

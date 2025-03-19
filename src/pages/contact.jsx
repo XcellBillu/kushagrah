@@ -30,7 +30,7 @@ const Contact = () => {
 
   return (
     <Layouts>
-        <PageBanner pageTitle={"Contact Us"} pageDesc={"Have ideas for your business? Let’s build something awesome together."} />
+        <PageBanner pageTitle={"Contact With Me"} pageDesc={"Have ideas for your business? Let’s build something awesome together."} />
 
         {/* Onovo Contact Info */}
         <section className="onovo-section gap-top-140">
@@ -40,8 +40,8 @@ const Contact = () => {
 
                         {/* Heading */}
                         <div className="onovo-text gap-bottom-40">
-                            <h4>Send Us A Message</h4>
-                            Then let us know about it and we can see what we can do to help
+                            <h4>Send A Message</h4>
+                            Then let me know about it and I can see what we can do to help
                         </div>
 
                         {/* Form */}
@@ -174,15 +174,15 @@ const Contact = () => {
                         </div>
 
                     </div>
-                    <div className="col-xs-12 col-sm-12 col-md-12 col-lg-5">
+                    <div className="col-xs-12 col-sm-12 col-md-12 col-lg-5" style={{alignContent:'center'}}>
 
                         {/* Contact Info */}
                         <div className="onovo-contact-info onovo-text-white">
                             <ul>
                                 <li>
                                     <h5>Contact Info</h5>
-                                    <a href="tel:+10204302973" className="onovo-lnk lnk--white" target="_blank">+ 1 (020) 430 2973</a><br/>
-                                    <a href="mailto:username@domain.com" className="onovo-lnk lnk--white" target="_blank">username@domain.com</a>
+                                    <a href="tel:+919811028537" className="onovo-lnk lnk--white" target="_blank">+91-98110 28537</a><br/>
+                                    {/* <a href="mailto:username@domain.com" className="onovo-lnk lnk--white" target="_blank">username@domain.com</a> */}
                                     
                                     <div className="onovo-social-1 onovo-social-active" style={{"marginTop": "10px"}}>
                                         <ul>
@@ -197,13 +197,11 @@ const Contact = () => {
                                     </div>
                                 </li>
                                 <li>
-                                    <h5>Houston</h5>
-                                    <div>2001 N. Clybourn Avenue Suite 202, <br/>Block D, IL 60614</div>
+                                    <h5>India</h5>
+                                    <div>Greater Kailash, KC Studio
+                                     <br/>Delhi - 110048</div>
                                 </li>
-                                <li>
-                                    <h5>Los Angeles</h5>
-                                    <div>2001 N. Clybourn Avenue Suite 202</div>
-                                </li>
+                              
                             </ul>
                         </div>
 
@@ -213,10 +211,9 @@ const Contact = () => {
         </section>
 
         {/* Onovo Faq */}
-        <section className="onovo-section gap-top-140">
+        {/* <section className="onovo-section gap-top-140">
             <div className="container">
 
-                {/* Heading */}
                 <div className="onovo-heading align-center gap-bottom-40">
                     <div className="onovo-subtitle-1">
                         <span>{faqData.title}</span>
@@ -226,7 +223,7 @@ const Contact = () => {
                     </h2>
                 </div>
 
-                {/* Faq items */}
+         
                 <div className="onovo-faq-items">
                 <Accordion defaultActiveKey="faq-acc-0">
                     {faqData.items.map((item, key) => (
@@ -250,7 +247,7 @@ const Contact = () => {
                 </div>
                 
             </div>
-        </section>
+        </section> */}
       
     </Layouts>
   );

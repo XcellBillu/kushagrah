@@ -70,7 +70,7 @@ const ProjectsSection = ( { projects } ) => {
     return (
         <>
             {/* Onovo Projects */}
-			<section className="onovo-section gap-top-140 gap-bottom-140">
+			<section className="onovo-section gap-top-140 gap-bottom-100">
 				<div className="container">
 					<div className="row">
 						<div className="col-xs-12 col-sm-12 col-md-9 col-lg-9">

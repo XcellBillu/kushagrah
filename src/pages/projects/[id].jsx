@@ -53,14 +53,14 @@ const ProjectDetail = ( props ) => {
 				<div className="container">
 
 					{/* Image */}
-					<div className="gap-bottom-80">
-            <div className="project-image">
-						  <img src={postData.image} alt={postData.title} />
+					<div className="gap-bottom-40">
+            <div className="">
+						  <img src={postData.image} width='50%' style={{display:"flex",justifyContent:"center", margin:"auto", borderRadius:"30px"}} alt={postData.title} />
             </div>
 					</div>
 
 					<div className="row gap-bottom-80">
-						<div className="col-xs-12 col-sm-12 col-md-12 col-lg-7">
+						<div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 
               {postData.contentHtml != "" &&
               <>
@@ -72,10 +72,11 @@ const ProjectDetail = ( props ) => {
               }
 
 						</div>
+    
 						<div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 offset-lg-1">
 
 							{/* Project Info */}
-							<div className="onovo-project-info onovo-text-white text-uppercase">
+							{/* <div className="onovo-project-info onovo-text-white text-uppercase">
 								<ul>
                   {typeof postData.details != "undefined" &&
                   <>
@@ -149,7 +150,7 @@ const ProjectDetail = ( props ) => {
 									</li>
 
 								</ul>
-							</div>
+							</div> */}
 							
 						</div>
 					</div>
@@ -167,6 +168,7 @@ const ProjectDetail = ( props ) => {
 								</a>
 							</div>
 						</div>
+          
             ))}
 
 					</div>
