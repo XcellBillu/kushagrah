@@ -198,8 +198,8 @@ const Contact = () => {
                                 </li>
                                 <li>
                                     <h5>India</h5>
-                                    <div>Greater Kailash, KC Studio
-                                     <br/>Delhi - 110048</div>
+                                    <div>Alaknanda
+                                     <br/>New Delhi- 110019</div>
                                 </li>
                               
                             </ul>

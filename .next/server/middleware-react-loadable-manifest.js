@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST={}
+self.__REACT_LOADABLE_MANIFEST={"..\\layouts\\Layouts.js -> @components/SplitScrollAnimation":{"id":"..\\layouts\\Layouts.js -> @components/SplitScrollAnimation","files":["static/chunks/src_components_SplitScrollAnimation_jsx.js"]}}

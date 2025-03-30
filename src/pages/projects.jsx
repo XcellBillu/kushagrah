@@ -11,9 +11,7 @@ const Portfolio = (props) => {
   return (
     <Layouts>
       <PageBanner pageTitle={"My Projects"} pageDesc={"Each project is a story crafted with vision, precision, and passion."} />
-
       <ProjectsGrid projects={props.projects} layout={"grid"} />
-      
     </Layouts>
   );
 };
