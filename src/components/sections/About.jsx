@@ -1,7 +1,7 @@
 import Data from "@data/sections/about.json";
 import Link from "next/link";
 import KC from '../../../public/images/official/ProfileIMG.png'
-
+// import Pdf from '/video/Kushagrah_Chawla_Detailed_CV.pdf'
 const AboutSection = () => {
     return (
       <>
@@ -22,6 +22,7 @@ const AboutSection = () => {
                       <h2 className="onovo-title-2">
                         <span dangerouslySetInnerHTML={{__html: Data.title}} />
                       </h2>
+                     
                     </div>
 
                   </div>
@@ -58,7 +59,12 @@ const AboutSection = () => {
                   </div>
                   ))}
                 </div>
-
+                <Link className="onovo-btn onovo-hover-btn" href='https://drive.google.com/file/d/1FFKlGemwGvx7G1-l5xJn_s_YF0SvirSL/view?usp=sharing' target="_blank" >
+                  <i className="arrow">
+                    <span />
+                  </i>
+                  <span>Download CV</span>
+                </Link>
               </div>
               <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 hide-on-mobile">
                     <div className="d-flex justify-content-center">
