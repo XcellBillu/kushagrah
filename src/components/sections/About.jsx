@@ -62,7 +62,7 @@ const AboutSection = () => {
                   </div>
                   ))}
                 </div>
-                <Link className="onovo-btn onovo-hover-btn" href='https://drive.google.com/file/d/1FFKlGemwGvx7G1-l5xJn_s_YF0SvirSL/view?usp=sharing' target="_blank" >
+                <Link className="onovo-btn onovo-hover-btn" href='https://drive.google.com/file/d/12sjVkIXkZnLIr7MnOTstPPH_ZoWXqbz6/view?usp=sharing' target="_blank" >
                   <i className="arrow">
                     <span />
                   </i>
