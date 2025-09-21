@@ -44,6 +44,9 @@ const AboutSection = () => {
                   </div>
                 </div>
 
+                      <div id='product-component-1745016303527'></div>
+
+
                 {/* Description */}
                 <div className="row">
                   {Data.items.map((item, key) => (
