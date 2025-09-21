@@ -1,11 +1,11 @@
 ---
 #preview
-title: Amrita Sher-Gil Book
-image: /images/projects/Project01.jpg
+title: BMW
+image: /images/projects/bmw_poster.png
 category: Printing
 category_slug: print
-type: Art Direction, Branding, Interactive Design
-team: Thomas Jackki
+type: Print Ads, Magazine Ads, Social Media
+team: Lina Watson
 date: 2021-2023
 
 #full details
@@ -20,51 +20,43 @@ details:
         - label: "Ending:"
           value: Mar 18, 2023
         
+        - label: "Website:"
+          value: bslthemes.com
 
 gallery: 
     items:
-        - image: /images/projects/amrita/Amrita SherGil MOCKUP 02.jpg
+        - image: /images/projects/bmw/1.png
           alt: "image"
 
-        - image: /images/projects/amrita/Amrita SherGil MOCKUP 03.jpg
+        - image: /images/projects/bmw/2.png
           alt: "image"
 
-        - image: /images/projects/amrita/Amrita SherGil MOCKUP 04.jpg
+        - image: /images/projects/bmw/3.png
           alt: "image"
         
-        - image: /images/projects/amrita/Amrita SherGil MOCKUP 05.jpg
+        - image: /images/projects/bmw/4.png
           alt: "image"
 
-        - image: /images/projects/amrita/Typo Amrita Frame 01.jpg
+        - image: /images/projects/bmw/5.png
           alt: "image"
         
-        - image: /images/projects/amrita/Typo Amrita Frame 02.jpg
+        - image: /images/projects/bmw/6.png
           alt: "image"
 
-          
+        - image: /images/projects/bmw/7.png
+          alt: "image"
 
-desc1:
-    text: 
+        - image: /images/projects/bmw/8.png
+          alt: "image"
+
+    
 
 
 additional:
-    heading: 
+    heading:
     content: "
-      <p>Our immediate goal is to complete the testing phase and achieve the certification, which will allow us to bring our product to market by the end of the year. We are actively engaging with waste to energy operators, concrete manufacturers, and the wider construction industry.</p>
-      
-      <p>She was bold, tenacious, unapologetic, experimental, adventurous, scandalous and full of life. Her paintings glorified the culture of India over Europe. She mentioned in a letter to her father,” a fresco of Ajanta or a small sculpture is worth more than the whole Renaissance.</p>
-
-      <p>An artist beyond compares though she lived for 28 short years , she left indelible mark on the history of contemporary Indian art. She often referred to India’s Frida Kahlo. She left that her life’s purpose was to portray the lives of Indian people through her canvas.</p>
-
-      <p>Through a carefully curated collection of her most iconic works, insightful commentary, and intimate anecdotes, we invite you to delve into the depths of Sher-Gil’s imagination and experience the magic of her artistry first hand.</p>
-
-    "
+     
+      Key projects included promoting the BMW iX1 Long Wheelbase model with a campaign highlighting features such as expansive legroom, sustainable luxury with vegan leather upholstery, and advanced technology. Creative pieces also involved celebratory events like Ganesh Chaturthi offers, Dreamdeal Carnivals, and festive sales.
+      The internship experience with BMW highlighted the importance of minimalism and universally appealing design aligned with luxury branding. The projects required a balance of aesthetics and brand consistency to deliver high-impact yet elegant design communication. "
 ---
-
-<!-- ### Description -->
-
-As you embark on this journey through the pages of our coffee table book dedicated to Sher-Gil’s extraordinary life and work, allow yourself to be transported into the vibrant tapestry of her artistic genius.
-My sincere appreciation goes to AMRITA SHER GIL for her artistic brilliance, which served as the driving force behind this project. This coffee table book is a tribute to her enduring legacy, and I hope it captivates and inspires all who explore its pages.
-
-
-Amrita Sher-Gil was to overhaul Indian art through the first half of the 20th century. Her works have been declared ‘**National Treasures**’ by the Government of India and a corpus of her paintings is housed in the National Gallery of Art, New Delhi. The baby was named **‘Amrita,’** after Amritsar, the ‘**tank of immortality.**’.
+During the internship, work on BMW focused on designing campaigns, social media creatives, magazine layouts, newspaper ads, and lifestyle collection visuals. The BMW briefs were minimal yet precise to reflect the brand's premium identity, emphasizing backdrop design, visuals, and color combinations strictly following brand guidelines, typefaces, and style.
